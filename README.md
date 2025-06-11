@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuj Gupta</h1>
-<h3 align="center">A passionate Backend Developer | Flutter Enthusiast | Final Year IT Student</h3>
+<h3 align="center">A passionate Backend Developer | Flutter Enthusiast | Recent Graduate(2025)</h3>
 
 ---
 
