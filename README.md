@@ -46,7 +46,7 @@
 
 - 🛒 [E-Commerce Product Management API](https://github.com/seriouslyanuj/ecommerce-springboot)  
 - 📇 [Smart Contact Manager](https://github.com/seriouslyanuj/contact-manager)  
-- 📱 Flutter UI App (Coming soon)  
+- 📱 [Quiz App](https://github.com/seriouslyanuj/QuizApp) 
 - ⚡ IoT + Software Hackathon Project (Documentation in progress)
 
 ---
